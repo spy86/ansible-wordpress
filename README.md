@@ -1,5 +1,9 @@
 # Wordpress Playbook
 
+
+[![Ansible Role](https://img.shields.io/badge/ansible-role%20wordpress-brightgreen.svg)](https://bitbucket.org/devops_sysops/wordpress/)
+
+
 How to use:
 
 ```
