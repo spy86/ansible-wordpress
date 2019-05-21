@@ -1,11 +1,9 @@
 # Wordpress Playbook
 
 
-[![Ansible Role](https://img.shields.io/badge/ansible-role%20wordpress-brightgreen.svg)](https://bitbucket.org/devops_sysops/wordpress/)
-[![Ansible Role](https://img.shields.io/badge/test-passed-brightgreen.svg)](https://bitbucket.org/devops_sysops/wordpress/)
-[![Ansible Role](https://img.shields.io/badge/package-v1.0.0-blue.svg)](https://bitbucket.org/devops_sysops/wordpress/)
+![ansible-wordpress](https://img.shields.io/github/issues/spy86/ansible-wordpress.svg) ![ansible-wordpress](https://img.shields.io/github/forks/spy86/ansible-wordpress.svg) ![ansible-wordpress](https://img.shields.io/github/stars/spy86/ansible-wordpress.svg) ![ansible-wordpress](https://img.shields.io/github/license/spy86/ansible-wordpress.svg) ![ansible-wordpress](https://img.shields.io/twitter/url/https/github.com/spy86/ansible-wordpress.svg?style=social)
 
-How to use:
+### How to use:
 
 ```
 sudo ansible-playbook playbook.yml -i hosts -e mysql_root_password=#some-password-for-mysql#
